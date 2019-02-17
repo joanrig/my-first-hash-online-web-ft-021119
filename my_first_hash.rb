@@ -1,6 +1,6 @@
 def my_hash
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
-  to_do_hash = the_rock = {"name" => "Dwayne Johnson", "stage_name" => "The Rock", "weight" => "a lot"}
+  to_do_hash = the_rock = {"drive_destinations" => "Einstein_High", "grad_lab" => "payroll", "cooking" => "dinner"}
 end
 
 
